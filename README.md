@@ -4,3 +4,6 @@ Dentre as previsões demonstrativas apresentadas, a que apresentou maior variaç
 
 O fator de maior influência sobre essa previsão foi:  
 
+![Fator mais Importante](fator_mais_importante.png)
+
+
