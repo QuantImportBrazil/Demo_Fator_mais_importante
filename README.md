@@ -15,16 +15,20 @@ Para demonstrar a importância dos fatores nas previsões foi escolhida a previs
 
 ![Gráfico de Previsão](31054000.png)
 
-Note que em 2025 a previsão quantitativa foi de aproximadamente 5 kt. Note também que há inesistência da marcação com "X" verde no centro da previsão, o que indica que a previsão é de quem nem mesmo importação ocorreria.  
-Já para 2026 a previsão passa a se aproximar de 50 kt e o "X" verde ao centro tem máximo tamanho.
+No mês 09 de 2025, note que:  
+* Não esta presente a marcação com "X" verde no centro da previsão. Isso indica que o nosso sistema prevê que essa determinada importação provavelmente não ocorrerá.
+* A previsão quantitativa foi de aproximadamente 5 kt. isso indica que o nosso sistema prevê que, se a importação ocorrer, será de aproximadamente 5 kt.
 
-Nosso sistema proprietário indicou que vários fatores causaram essa percentualmente grande mudança e quantificou como sendo a aceleração da queda das importações da região de Barreiras/BA o fator quantitativamente mais efeitvo. Essa desaceleração pode ser vista a seguir:
+No mês 09 de 2026, note que:
+* O "X" verde ao centro tem máximo tamanho, indicando que o nosso sistema prevê que a importação provavelmente ocorrerá.
+* A previsão quantitativa é de aproximadamente 50 kt. 
 
+Nosso sistema proprietário indicou que vários fatores causaram essa grande mudança percentual. Ele também indicou que o fator mais influente neste caso foi a intensa queda nas importações da região de Barreiras/BA. Essa desaceleração pode ser vista no gráfico a seguir:
 
 ![Fator mais Importante](fator_mais_importante.png)
 
 
-Isso é um exemplo da importância de se analisar todos os dados do Brasil, mesmo em municípios distantes e não abastecidos diretamente pelo município que esta sendo previsto!
+Isso é um exemplo da importância de se analisar conjuntamente todos os dados do Brasil, mesmo em municípios distantes e não abastecidos diretamente pelo município que esta sendo previsto!
 
 
 ---
