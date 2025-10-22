@@ -10,10 +10,10 @@
 
 ---
 
-Para aqui demonstrar a importância dos fatores nas previsões, foi escolhida a previsão demonstrativa de maior variação percentual em relação ao ano anterior: 
+Para demonstrar a importância de diferentes fatores sobre uma previsão, dentre as previsões demonstrativas, escolhemos a que apresentou a maior variação percentual em relação ao ano anterior:  
 * Produto NCM 31054000 - Município de Paranaguá-PR - MÊS 09/2026
 
-Observe-a a seguir:
+Ela pode ser observada no gráfico a seguir:
 
 ![Gráfico de Previsão](31054000.png)
 
@@ -25,11 +25,13 @@ No mês 09 de 2026, note que:
 * O "X" verde aparece ao centro e com o tamanho máximo permitido. Isso indica que o sistema prevê que a importação muito provavelmente ocorrerá.
 * A previsão quantitativa para esse momento é de aproximadamente 50 kt. 
 
-O sistema indicou que vários fatores causaram essa grande mudança percentual. Ele também indicou que o fator mais influente neste caso foi a intensa queda nas importações de determinados produtos na região de Barreiras/BA. Essa queda pode ser vista no gráfico a seguir:
+O sistema indicou que vários fatores causaram essa grande mudança quantitativa percentual. Ele também indicou que, dentre os fatores, o que mais influente neste caso foi a intensa queda nas importações de determinado grupo de produtos na região de Barreiras/BA. Essa forte queda na importação pode ser vista no gráfico a seguir:
 
 ![Fator mais Importante](fator_mais_importante.png)  
 
-Isso é um exemplo da importância de se analisar conjuntamente todos os dados do Brasil, mesmo em municípios distantes e não abastecidos diretamente pelo município que esta sendo previsto!  
+Note que a queda na Bahia foi em grupo de produto que inclui o produto que esta sendo previsto no Paraná.
+
+Isso é um exemplo claro da importância de se analisar conjuntamente todos os dados do Brasil para se prever as importações de um único município.  
 
 ---
 
