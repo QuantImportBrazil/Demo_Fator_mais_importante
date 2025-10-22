@@ -2,13 +2,14 @@
 
 ---
 
-# Fator mais Importante — Demonstração
+# Fator mais Importante
 
+> **Emissão:** 09-2025  
 > O nosso sistema de aprendizado de máquina (ML) não apenas faz previsões, como também permite listar e quantificar a importância de cada fator que as afeta.  
 
-**[Home](https://quantimportbrazil.github.io/Sobre/)**  
-
 ---
+
+**[Home](https://quantimportbrazil.github.io/Sobre/)**  
 
 Para demonstrar a importância de diferentes fatores sobre uma previsão, dentre as previsões demonstrativas, escolhemos aquela que apresentou a maior variação percentual em relação ao ano anterior:  
 * Produto NCM 31054000 — Município de Paranaguá-PR — Mês 09/2026
